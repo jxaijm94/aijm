@@ -1,7 +1,5 @@
 爱寂寞  的 的的  发发发个个个个规划和 好
 //
-//  GTMBase64.h
-//
 //  Copyright 2006-2008 Google Inc.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License"); you may not
